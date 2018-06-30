@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="WGU" parent="AppTheme">
+        <item name="colorAccent">@color/WGU_PrimaryDark</item>
+        <item name="android:statusBarColor">@color/WGU_PrimaryDark</item>
+        <item name="android:navigationBarColor">@color/WGU_PrimaryDark</item>
+        <item name="android:colorForeground">@color/WGU_PrimaryDark</item>
+        <item name="colorPrimaryDark">@color/WGU_PrimaryDark</item>
+        <item name="colorPrimary">@color/WGU_PrimaryDark</item>
+    </style>
+</resources>
